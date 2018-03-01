@@ -12,6 +12,7 @@ module.exports = {
     The port on which the API and UI will be available
    */
   port: port,
+
   /*
     Where the content is stored
     You can access this property from `bp.dataLocation`
